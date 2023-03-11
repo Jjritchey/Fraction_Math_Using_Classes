@@ -1,0 +1,11 @@
+Please enter a fraction(Numerator/Denominator): Please enter a fraction(Numerator/Denominator): Please enter the math operation you would like to complete for these fractions(+, -, *, /): Here is the result: 1/24
+Here is the result: 1/24
+Enter q or Q to stop: Please enter a fraction(Numerator/Denominator): Please enter a fraction(Numerator/Denominator): Please enter the math operation you would like to complete for these fractions(+, -, *, /): Here is the result: 138/625
+Here is the result: 138/625
+Enter q or Q to stop: Please enter a fraction(Numerator/Denominator): Denominator cannot be 0. Please re-enter a new denominator: Please enter a fraction(Numerator/Denominator): Please enter the math operation you would like to complete for these fractions(+, -, *, /): Here is the result: 3/2
+Here is the result: 3/2
+Enter q or Q to stop: Please enter a fraction(Numerator/Denominator): Please enter a fraction(Numerator/Denominator): Please enter the math operation you would like to complete for these fractions(+, -, *, /): Here is the result: 311/99
+Here is the result: 311/99
+Enter q or Q to stop: Please enter a fraction(Numerator/Denominator): Denominator cannot be 0. Please re-enter a new denominator: Denominator cannot be 0. Please re-enter a new denominator: Please enter a fraction(Numerator/Denominator): Please enter the math operation you would like to complete for these fractions(+, -, *, /): Here is the result: 1/23
+Here is the result: 1/23
+Enter q or Q to stop: 
